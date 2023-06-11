@@ -6,3 +6,5 @@ console.log("Hello World") // 2nd time!
 function main() {
   retunr null;
 }
+
+console.log(main)
