@@ -7,3 +7,10 @@ function main() {
 }
 main()
 console.loh(main)
+
+
+function master() {
+  return null;
+}
+main()
+console.loh(master)
